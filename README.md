@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lukonzo
 - 👀 I’m interested in Back End SW Development
-- 🌱 I’m currently learning SE by ALX
-- 💞️ I’m looking to collaborate on everything SE
+- 🌱 I’m currently learning SE by ALX, cheers to lifelong learning. Learn, unlearn, relearn.
+- 💞️ I’m ready to collaborate
 - 📫 How to reach me - twitter handle @lukonzo_simon
 
 <!---
